@@ -1,25 +1,28 @@
-# MASTERING MARKDOWN ON GITHUB 
+# read: 02a - Learning Markdown
 
-<p> Markdown is a way to style text on the web, that allows you to control the display of the document such as:
+
+## MASTERING MARKDOWN ON GITHUB 
+
+Markdown is a way to style text on the web, that allows you to control the display of the document such as:
 formatting words(bold or italic etc..), you can also add images, and create lists.
 
 - you can use markdown in most places around github
 
 - github falvored markdown
-- now github uses its own version of markdowns syntax, that has additional uses that makes it easier for us to work with content </p>
+- now github uses its own version of markdowns syntax, that has additional uses that makes it easier for us to work with content 
 
-# GITHUB PAGES
+## GITHUB PAGES
 
-<p> github pages lets you turn github repositories into elegent website to showcase your portfolio, projects, and everything you want to share with the world
+ github pages lets you turn github repositories into elegent website to showcase your portfolio, projects, and everything you want to share with the world
 
 - github pages also lets you treat your website content as the same level of care as the source code and all of the projects    
 
 - github pages also gives you a streamline publishing experience with the help of jekyll
 
-- jekyll is an open source tool that transforms plain text files into websites. </p>
+- jekyll is an open source tool that transforms plain text files into websites.
 
-# GITHUB MARKDOWN SYNTAX
-<p>
+## GITHUB MARKDOWN SYNTAX
+
 - styling text:You can indicate emphasis with bold, italic, or strikethrough text.
 
 - Quoting code:You can call out code or a command within a sentence with single backticks
@@ -40,5 +43,3 @@ reason:to help readers navigate to other files in your repository
 - Referencing external resources: have some autolinks to reference external resources
 
 - Using emoji: you can use emojis in github
-
-</p>
