@@ -9,9 +9,10 @@ put a link in here to link in other files
 
 Title        |         Link
 ------------ |----------------------
-lab01b       | [the coder's computer(code)](lab01b.md)
-lab:02a      | [Learning Markdown](lab02a.md)
+
 lab:02b      | [growth mindset](lab02b.md)
 read1        | [The coder's computer](read1.md)
 read:02a     | [Learning Markdown](read02a.md)
 read:02b     | [Revisions and the Cloud](read02b.md)
+read:03      | [HTML&CSS](read03.md)
+read:04a     | [Javascript](read04.md)
