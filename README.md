@@ -4,8 +4,7 @@
 - software engineering bachelor's degree
 - 5 months internship in web development
 
-table of content
-put a link in here to link in other files
+Here's the table of content:
 
 Title        |         Link
 ------------ |----------------------
