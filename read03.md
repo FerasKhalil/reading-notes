@@ -1,7 +1,7 @@
 # Read:03
 
 # HTML and CSS
-let me start off with explaining is html and css
+let me start off with explaining what is **HTML** and **CSS**
 ## HTML 
 let me start with saying that **HTML** is not a programming language, but it's a markup language.
 **HTMl** is a shortcut for "Hypertext Markup Language"
