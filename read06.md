@@ -13,3 +13,15 @@ you can change colors, change places, change text type and  text colors and a lo
 You can use it **internally** in your html file using "style" tag, or **externally** in a new file and then link it to your html file.
 using it **externally** is always best practice.
 it has some advantages one of them is that the site will load faster once the css stylesheet has been downloaded.
+
+### colors
+- **RGB** colors means how much Red, Green and blue are used for the color
+red green and blue combined with one darker than the other can almost make all other colors. you can control and make any color you want.
+rgb(5,55,555)
+this means 5 of red, 55 of green and 555 of blue.
+- **HSL** colors.
+
+there are 3 ways to specify colors in **CSS**
+- RGB values
+- hex codes
+- color names
