@@ -23,8 +23,9 @@ read:06      | [Design web pages with CSS](102/read06.md)
 
 Title        |         Link
 ------------ |----------------------
-read:01      | [Introductory HTML and JavaScript](201/read01.md)
+read:01      | [Introductory HTML and JavaScript](201/read:01.md)
 class-02     |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/class-02.md)
 read:03      | [HTML Lists, CSS Boxes, JS Control Flow](201/read:03.md)
 read:04      | [HTML Links, CSS Layout, JS Functions](201/read:04.md)
 read:05      | [Readings : Images, Color, Text](201/read:05.md)
+read:06      | [Read: 06 - JS Object Literals; The DOM](201/read:06.md)
