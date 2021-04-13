@@ -35,3 +35,5 @@ read:09      | [Forms and JS Events](201/read:09.md)
 read:10      | [JS Debugging](201/read:10.md)
 read:11      | [ Audio, Video, Images](201/read:11.md)
 read:12      | [Chart.js, Canvas](201/read:12.md)
+read:13      | [Local Storage](201/read:13.md)
+ 
