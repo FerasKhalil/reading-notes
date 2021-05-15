@@ -4,6 +4,11 @@
 - software engineering bachelor's degree
 - 5 months internship in web development
 
+Code 102 - Intro to Software Development
+Code 201 - Foundations of Software Development
+Code 301 - Intermediate Software Development
+Code 401 - Advanced Software Development
+
 Here's the table of content:
 
 ## 102 table: 
