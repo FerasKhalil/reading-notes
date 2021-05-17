@@ -50,5 +50,5 @@ read:14      | [What Google Learned About Teams](201/read:14.md)
 Title        |         Link
 ------------ |----------------------
 read:01      | [Introduction to React and Components](301/read:01.md)
-             | 
+read:02      | [State and Props](301/read:02.md)
              | 
