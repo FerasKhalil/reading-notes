@@ -43,3 +43,12 @@ read:12      | [Chart.js, Canvas](201/read:12.md)
 read:13      | [Local Storage](201/read:13.md)
 read:13b     | [CSS Transforms, Transitions, and Animations](201/read:13b.md)
 read:14      | [What Google Learned About Teams](201/read:14.md)
+
+
+
+## 301 table: 
+Title        |         Link
+------------ |----------------------
+read:01      | [Introduction to React and Components](301/read:01.md)
+             | 
+             | 
