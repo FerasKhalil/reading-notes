@@ -48,10 +48,13 @@ read:14      | [What Google Learned About Teams](201/read:14.md)
 
 ## 301 table: 
 
+
+
 Title        |         Link
 ------------ |----------------------
-
 read:01      | [Introduction to React and Components](301/read:01.md)
-
 read:02      | [State and Props](301/read:02.md)
- 
+read:03      | [Passing Functions as Props](301/read:03.md)
+read:04      | []()
+read:05      | []()
+read:06      | []()
