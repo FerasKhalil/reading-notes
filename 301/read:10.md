@@ -121,3 +121,5 @@
 	- The debugger statement stops the execution of JavaScript, and calls (if available) the debugging function. Using the debugger statement has
 	  the same function as setting a breakpoint in the code.
 - from (https://www.google.com/search?q=what+does+the+word+debugger+do+in+javascript&sxsrf=ALeKk02T1ptznUoHxg9IuZC6V0jQoycKPg%3A1622050719084&ei=n4euYK3RBIKA9u8P8ZWzqAQ&oq=what+does+the+word+debugger+do+in&gs_lcp=Cgdnd3Mtd2l6EAMYADIICCEQFhAdEB4yCAghEBYQHRAeOgQIIxAnOgUIABCRAjoCCAA6BAgAEEM6BQgAEMsBOgIILjoGCAAQFhAeOgkIABANEEYQ-QE6BggAEA0QHjoICAAQFhAKEB46BQghEKABUJ_qAljTlQNglZ4DaABwAngCgAHXAogB8C6SAQgwLjI2LjYuMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz)
+## Things I want to know more about
+- i want to know more about LIFO
