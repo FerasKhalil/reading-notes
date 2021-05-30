@@ -1,5 +1,5 @@
 # About me
- I'm Firas Hasan, a 22 year old software engineer.
+ I'm Firas Hasan. A software engineer.
 
 - software engineering bachelor's degree
 - 5 months internship in web development
