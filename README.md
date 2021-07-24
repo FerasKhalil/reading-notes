@@ -11,7 +11,7 @@ Code 401 - Advanced Software Development
 
 Here's the table of content:
 
-## 102 table: 
+## Code 102 - Intro to Software Development table: 
 Title        |         Link
 ------------ |----------------------
 lab:02b      | [growth mindset](102/lab02b.md)
@@ -24,7 +24,7 @@ read:05      | [operators and loops](102/read05.md)
 read:06      | [Design web pages with CSS](102/read06.md)
 
 
-## 201 table :
+## Code 201 - Foundations of Software Development table :
 
 Title        |         Link
 ------------ |----------------------
@@ -46,7 +46,7 @@ read:14      | [What Google Learned About Teams](201/read:14.md)
 
 
 
-## 301 table: 
+## Code 301 - Intermediate Software Development table: 
 
 
 
@@ -65,3 +65,8 @@ read:10      | [In memory storage](301/read:10.md)
 read:11      | [Authentication](301/read:11.md)
 read:12      | [Mongo and Mongoose ](301/read:12)
 read:13      | [CRUD](301/read:13.md)
+
+
+
+
+## Code 401 - Advanced Software Development table:
