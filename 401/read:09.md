@@ -16,6 +16,7 @@ to enrich your classes.
 	-from (https://dbader.org/blog/python-dunder-methods)
 
 
+
 - To iterate over transactions in reversed order you can implement the '__reversed__' special method:
 
 	def __reversed__(self):
